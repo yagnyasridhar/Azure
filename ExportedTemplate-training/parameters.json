@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "metricAlerts_admin_description": {
+            "value": null
+        },
+        "metricAlerts_admin_name": {
+            "value": null
+        },
+        "virtualMachines_samplecheck_name": {
+            "value": null
+        },
+        "actionGroups_administrator_name": {
+            "value": null
+        },
+        "storageAccounts_trainingacte_name": {
+            "value": null
+        },
+        "virtualNetworks_training_vnet_name": {
+            "value": null
+        },
+        "storageAccounts_trainingdiag166_name": {
+            "value": null
+        },
+        "networkInterfaces_samplecheck687_name": {
+            "value": null
+        },
+        "publicIPAddresses_samplecheck_ip_name": {
+            "value": null
+        },
+        "workspaces_sample123_name": {
+            "value": null
+        },
+        "networkSecurityGroups_samplecheck_nsg_name": {
+            "value": null
+        },
+        "solutions_AzureActivity_sample123__name": {
+            "value": null
+        }
+    }
+}
